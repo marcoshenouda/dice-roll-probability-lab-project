@@ -3,7 +3,7 @@
 	Copyright: 2022
 	Author: Marco Shenouda
 	Date: 09/08/22 9:45
-	Description: A program that asks a user to specify a number of rolls and prints the number of times a certain dice roll score was made.
+	Description: A program to simulate random dice rolls and print the frequency of each score for probability lab project.
 */
 
 #include <iostream>
