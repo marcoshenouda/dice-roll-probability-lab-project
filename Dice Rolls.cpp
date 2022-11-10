@@ -24,6 +24,9 @@ int main() {
 	DiceRollResultsType scoreResults = {0};
 	getScores(scoreResults, SCORE_SIZE);
 	printDiceRollResults(scoreResults, SCORE_SIZE);
+	cout << "Press Enter to Continue";
+	cin.ignore();
+	cin.get();
 	return 0;
 }
 
